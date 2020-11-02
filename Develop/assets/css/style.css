@@ -92,17 +92,20 @@ p {
     color: #ffffff;
 }
 
+/* consolidated */
 .benefits h3 {
     margin: 10px 0 10px 0;
     text-align: center;
 }
 
+/* consolidated */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* consolidated */
 .content-div {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +115,7 @@ p {
     color: #ffffff;
 }
 
+/* consolidated */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
